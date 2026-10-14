@@ -1,0 +1,35 @@
+INFORME DE METADATOS Y PROPIEDADES
+==================================
+
+Nombre del archivo: aspiradora.jpg
+Ruta del archivo: C:\IA-gpo3H\Vision Artificial\u2-act1-va-0070\imagen\aspiradora.jpg
+Formato por extension: .JPG
+Tamano en bytes: 13380
+Tamano en KB: 13.07
+Tamano en MB: 0.0128
+
+DIMENSIONES
+-----------
+Ancho: 447 pixeles
+Alto: 447 pixeles
+Resolucion: 447 x 447
+Total de pixeles: 199,809
+
+CANALES Y DATOS
+---------------
+Numero de canales: 3
+Orden de canales: BGR
+Tipo de datos: uint8
+Valor minimo de pixel: 0
+Valor maximo de pixel: 255
+Promedio general de los valores: 231.59
+
+PROMEDIO POR CANAL
+------------------
+Azul (B): 231.67
+Verde (G): 231.56
+Rojo (R): 231.53
+
+Nota: el formato se identifica por la extension
+del archivo. La resolucion indica las dimensiones
+en pixeles y no los puntos por pulgada (DPI).
